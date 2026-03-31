@@ -1,4 +1,4 @@
-//Day-1 Array Traversal
+//Array Traversal
 // Time Complexity: O(n)
 // space complexity: O(1)
 
